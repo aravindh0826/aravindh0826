@@ -8,7 +8,7 @@ I’m an enthusiastic learner exploring the world of programming and artificial 
 
 Most of the projects I work on are collaborative, and while I’m still growing my technical depth, I actively focus on **understanding how systems work and improving with every project**.
 
-🚀 Interests: Artificial Intelligence, Machine Learning, Software Development
+  Interests: Artificial Intelligence, Machine Learning, Software Development
 🎮 Hobbies: Gaming, watching movies, participating in hackathons, and building projects with friends
 
 Always learning, always building.
